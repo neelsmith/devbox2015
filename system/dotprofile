@@ -1,0 +1,4 @@
+
+
+# Set keyboard layout:
+setxkbmap -layout "us"
